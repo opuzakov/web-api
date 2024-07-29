@@ -1,0 +1,6 @@
+@ControllerBasedAPI_HostAddress = http://localhost:5256
+
+POST {{ControllerBasedAPI_HostAddress}}/sample/
+Accept: application/json
+
+###
